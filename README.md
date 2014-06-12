@@ -4,17 +4,17 @@ This is the workshop for Head First Ruby on Rails by David Griffiths.
 
 * Ruby version 2.0.0
 
-* System dependencies
+* Rails 4.0.5
 
-* Configuration
+* System: Linux x86_64
 
-* Database creation
+* System dependencies: git nodejs libtool libxslt libksba openssl libxml2 libsqlite3pp libyaml
 
-* Database initialization
+* Configuration: rvm 
 
-* How to run the test suite
+* Database : sqlite3 1.3.9, rake 10.3.2
 
-* Services (job queues, cache servers, search engines, etc.)
+* How to run the test suite: rspec, capybara
 
 * Deployment instructions
 
